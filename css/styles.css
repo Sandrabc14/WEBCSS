@@ -168,7 +168,7 @@ footer {
     overflow: hidden; 
 }
 .item:nth-child(2):hover img {
-    transform: scale(1.15);
+    -webkit-transform: scale(1.15);
 }
 
 
